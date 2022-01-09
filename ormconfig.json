@@ -1,0 +1,9 @@
+{
+  "type": "mongodb",
+  "url": "",
+  "synchronize": true,
+  "logging": true,
+  "useNewUrlParser": true,
+  "useUnifiedTopology": true,
+  "entities": ["src/models/*.ts"]
+}
